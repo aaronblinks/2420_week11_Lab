@@ -80,5 +80,5 @@ WantedBy=timers.target
 5. Enable backup-service `sudo systemctl enable --now backup.service`
 6. Enable backup-timer `sudo enable --now backup.timer`
 7. Check if backup-timer is running/active `systemctl list-timer`
-# 2420_week11_Lab
-# 2420_week11_Lab
+
+
